@@ -1,0 +1,36 @@
+_repo: En-tranvia-b-Cuentos-dramaticos_75814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pardo Bazán, Emilia, condesa de
+    aliases:
+    - Pardo Bazan, Emilia, condesa de
+    - Bazán, Emilia Pardo, condesa de
+    - Bazán, Emilia, condesa de Pardo
+    birthdate: 1852
+    deathdate: 1921
+    gutenberg_agent_id: '6152'
+    url: http://www.gutenberg.org/2009/agents/6152
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+    - https://es.wikipedia.org/wiki/Emilia_Pardo_Baz%C3%A1n
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75814'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000092310&page=1
+pgterms:marc905: 20240507165515pardobazn
+pgterms:marc906: '1899'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aMADRID :$bADMINISTRACIÓN, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'En tranvía : $b Cuentos dramáticos'
+url: http://www.gutenberg.org/ebooks/75814
